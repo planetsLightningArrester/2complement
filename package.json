@@ -1,0 +1,30 @@
+{
+    "name": "2complement",
+    "version": "0.1.0",
+    "description": "Go back and forth from 2's complement like a charm",
+    "main": "2complement.min.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/planetsLightningArrester/2complement.git"
+    },
+    "keywords": [
+      "2",
+      "complement",
+      "complements",
+      "2complements",
+      "2-complements",
+      "2s",
+      "2s-complements",
+      "2scomplements",
+      "low",
+      "level",
+      "bytes",
+      "two"
+    ],
+    "author": "Planet's Lightning Arrester",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/planetsLightningArrester/2complement/issues"
+    },
+    "homepage": "https://github.com/planetsLightningArrester/2complement#readme"
+  }
