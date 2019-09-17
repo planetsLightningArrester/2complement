@@ -25,7 +25,7 @@ console.log("You rock");
 ### Methods
 + ***decode.complement2int(_2complement[,nBits]):***
     + *_2complement:* Number to be converted to int
-    + *nBits:* (optional) Number of bits
+    + *nBits:* (optional) Number of bits. 16 is the default
 + ***decode.int2complement(number[,nBits]):***
     + *number:* Number to be converted to 2's complement
-    + *nBits:* (optional) Number of bits
+    + *nBits:* (optional) Number of bits. 16 is the default

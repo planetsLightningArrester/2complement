@@ -1,6 +1,6 @@
 {
     "name": "2complement",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Go back and forth from 2's complement like a charm",
     "main": "2complement.min.js",
     "repository": {
